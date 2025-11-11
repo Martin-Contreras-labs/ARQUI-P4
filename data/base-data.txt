@@ -1,0 +1,9 @@
+a 12
+b -3
+c 7
+d 10
+e -2
+f 4
+g -8
+result 0
+error 0
