@@ -1,1 +1,1 @@
-result = a - (b + c - d)
+result = V1 * V2 + max(V3, V4) - abs(V5)
